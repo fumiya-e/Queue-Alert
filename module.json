@@ -2,7 +2,7 @@
     "disableAutoUpdate": false,
     "name": "Queue-Alert",
     "author": "miniwa",
-    "description": "Shows an alert when instance matching is complete",
+    "description": "Instance match alert with Tera minimized",
     "version": "1.0",
     "donationUrl": "",
     "options": {
