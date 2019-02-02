@@ -1,7 +1,9 @@
 {
   "files": {
     "index.js": "d49180488f7866fae601bde15fc6c6690ef7ff8ed14fd3ec472e9836b970faf3",
+    "manifest.json": "96fe9a7c44e04c66cdecdc05377c649b505748915122bd4cf7e0a0eedb529abd",
     "module.json": "fb1ec198d1cfb98667c51ab66fb0a30c90acee1a95290d4d19ab0df072ae3440",
+    "Newtonsoft.Json.dll": "564e6201dbf6354460d9ca180f0752d50dd7496fff49e05f67a9af42a2e772c7",
     "README.md": "86654cc095405d2f5e53b38b0e8a2de1d2254473d2d1a40f638a2de46e290ef4",
     "window.js": "2d78d3c9112babeeca21b371a69a92124eaf56f2eb0073fcc63ff7c3a0d72067",
     "www/index.html": "838618c65cefce3aef991de5091bedf05e4a26ad86c7645971fe4705580d4359",
@@ -12,10 +14,5 @@
     "www/img/tera-online.png": "f47ea855d469796989234d199bfa2df1f18d45e5502e72db4d81e879ba87ab52",
     "www/js/jquery-3.2.0.slim.min.js": "a8b02fd240408a170764b2377efdd621329e46c517dbb85deaea4105ad0c4a8c",
     "www/js/typeahead.bundle.min.js": "456894e2899453bb50d8cdf099140d5bd50be74301e02b9c6d13c26ec42ff97d"
-  },
-	"defs": {
-		"S_LOGIN": 10,
-		"S_FIN_INTER_PARTY_MATCH": 1,
-		"S_LEAVE_PARTY": 1
-	}
+  }
 }

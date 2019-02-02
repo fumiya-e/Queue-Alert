@@ -1,3 +1,3 @@
-# Queue-Alert
+# Queue Alert (for Caali's TeraProxy)
 
-Módulo para o TeraProxy
+Instance matching alert with Tera minimized
