@@ -1,0 +1,12 @@
+{
+  "files": {
+    "index.js": "c818cbff059a41237b0368b1215266ff1e2c0c12d8cbbd26a1bbc39cae8fcf08",
+    "module.json": "90ae8fd65048499d3299a5ef8943bed686ed922cc7a68e19395b70607c287c26",
+    "Newtonsoft.Json.dll": "564e6201dbf6354460d9ca180f0752d50dd7496fff49e05f67a9af42a2e772c7",
+    "README.md": "4596f496af46272de6ae395c1d37a11d46965692a04d8a9fe050b9f36dd87783"
+  },
+	"defs": {
+		"S_LOGIN": 10,
+		"S_FIN_INTER_PARTY_MATCH": 1
+	}
+}
