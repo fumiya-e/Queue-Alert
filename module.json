@@ -8,5 +8,5 @@
     "options": {
         "niceName": "Queue Alert"
     },
-    "servers": [""]
+    "servers": ["https://raw.githubusercontent.com/tsumiki-miniwa/Queue-Alert/master/"]
 }
